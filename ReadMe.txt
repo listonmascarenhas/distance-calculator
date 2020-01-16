@@ -4,7 +4,7 @@ The program is coded using Java with Maven on Eclipse.
 Requirements : Java, Maven, Eclipse.
 
 How to install Maven on Eclipse:
-1.Open your Eclipse IDE and click Help -> Install New Software…
+1.Open your Eclipse IDE and click Help -> Install New Softwareâ€¦
 2.On the opened pop-up, click on the Add button to add a new repository
 3.Fill the form with the information below and press Ok
   Name : M2Eclipse
